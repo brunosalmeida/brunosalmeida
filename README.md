@@ -2,13 +2,14 @@
 
 I am a software developer since 2007 working on web projects, and in recent years working on mobile projects, using Microsoft technologies. Adept of agile practices, software engineering, and good software development practices.
 
-## This is my competences 🤓
+## What I know...
 C#, ASP.NET Core, Javascript, ReactJS, Xamarin.Forms
 
 ## You can talk to me in:
 * Portuguese 
 * English
 
+## What i'm doing...
 
 - 🔭 I’m currently working with microservice applications using asp.net core, kafka, cassandra db and sql server.
 - 🌱 I’m currently learning Kotlin to help a special friend.
