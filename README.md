@@ -9,7 +9,6 @@ C#, ASP.NET Core, Javascript, ReactJS, Xamarin.Forms
 * Portuguese 
 * English
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working with microservice applications using asp.net core, kafka, cassandra db and sql server.
 - 🌱 I’m currently learning Kotlin to help a special friend.
