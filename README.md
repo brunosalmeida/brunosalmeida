@@ -23,6 +23,9 @@ I am a software developer since 2007 working on web projects, and in recent year
 - 🌱 I’m currently learning Kotlin to help a special friend.
 
 
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=brunosalmeida.brunosalmeida)
+
 <!--
 **brunosalmeida/brunosalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
