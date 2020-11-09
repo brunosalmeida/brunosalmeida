@@ -13,25 +13,15 @@ I am a software developer since 2007 working on web projects, and in recent year
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunosalmeida&hide=TeX&layout=compact)
 
 
-## You can talk to me in:
-* Portuguese 
-* English
+## You can talk to me at
+* ![LinkedIn](https://www.linkedin.com/in/brunosalmeida/?locale=en_US) 
+* ![Twitter](https://twitter.com/brunosaalmeida)
 
 ## What i'm doing...
 
 - 🔭 I’m currently working with microservice applications using asp.net core, kafka, cassandra db and sql server.
 
 
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=brunosalmeida.brunosalmeida)
 
-<!--
-**brunosalmeida/brunosalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
