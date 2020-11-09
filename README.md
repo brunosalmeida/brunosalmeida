@@ -20,7 +20,7 @@ I am a software developer since 2007 working on web projects, and in recent year
 ## What i'm doing...
 
 - 🔭 I’m currently working with microservice applications using asp.net core, kafka, cassandra db and sql server.
-- 🌱 I’m currently learning Kotlin to help my "mozão".
+- 🌱 I’m currently learning Kotlin to help my ![mozão](https://github.com/camaschion).
 
 
 
