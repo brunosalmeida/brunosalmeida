@@ -14,8 +14,8 @@ I am a software developer since 2007 working on web projects, and in recent year
 
 
 ## You can talk to me at
-* ![LinkedIn](https://www.linkedin.com/in/brunosalmeida/?locale=en_US) 
-* ![Twitter](https://twitter.com/brunosaalmeida)
+* [LinkedIn](https://www.linkedin.com/in/brunosalmeida/?locale=en_US) 
+* [Twitter](https://twitter.com/brunosaalmeida)
 
 ## What i'm doing...
 
