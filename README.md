@@ -7,7 +7,7 @@ I am a software developer since 2007 working on web projects, and in recent year
 
 ### [LinkedIn](https://www.linkedin.com/in/brunosalmeida/?locale=en_US) | [Twitter](https://twitter.com/brunosaalmeida)
 
-## What i'm doing...
+## What I'm doing...
 
 - 🔭 I’m currently working with microservice applications using asp.net core, kafka, cassandra db and sql server.
 
