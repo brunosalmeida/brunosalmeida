@@ -10,6 +10,7 @@ I am a software developer since 2007 working on web projects, and in recent year
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
 
 ![Bruno Almeida's github stats](https://github-readme-stats.vercel.app/api?username=brunosalmeida&theme=algolia&show_icons=true) 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunosalmeida&hide=TeX&layout=compact)
 
 
