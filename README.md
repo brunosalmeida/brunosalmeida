@@ -13,9 +13,9 @@ I am a software developer since 2007 working on web projects, and in recent year
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunosalmeida&hide=TeX&layout=compact)
 
 
-## [LinkedIn](https://www.linkedin.com/in/brunosalmeida/?locale=en_US) | [Twitter](https://twitter.com/brunosaalmeida)
+### You can find my CV here([docx](https://github.com/brunosalmeida/brunosalmeida/blob/master/resume.docx) | [pdf](https://github.com/brunosalmeida/brunosalmeida/blob/master/resume.pdf)| [md](https://github.com/brunosalmeida/brunosalmeida/blob/master/resume.md))
 
-# You can find my CV here()
+### [LinkedIn](https://www.linkedin.com/in/brunosalmeida/?locale=en_US) | [Twitter](https://twitter.com/brunosaalmeida)
 
 ## What i'm doing...
 
