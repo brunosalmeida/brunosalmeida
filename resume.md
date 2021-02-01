@@ -1,5 +1,5 @@
 # Bruno dos Santos Almeida
-##### Brazilian, 31 - Porto - Portugal
+##### Brazilian, 32 - Porto - Portugal
 ##### Email: brunosalmeida@outlook.com
 ##### Github: http://github.com/brunosalmeida
 
@@ -115,8 +115,5 @@ Creation of use cases, sequences, and activities diagrams. Developments of web a
 **MBA - Mobile development applications, AoT, Chatbots & Virtual Assistants - FIAP**
 
 ## Profession Education
-- _Xamarin.Forms_- alura.com.br
+- _ASP.NET Core Expert_ - desenvolvedor.io
 - _Xamarin Forms: Build Native Cross-Platforms With C#_ - udemy.com
-- _Xamarin.Forms Development for Android and iOS_ - udemy.com
-- _Build  a Real  world  app with  ASP.NET  Core and Angular_ - udemy.com
-- _Web Api 2: The framework to create web services in .Net_ - alura.com
